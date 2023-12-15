@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>happy birthday</title>
+    <style>
+        h1 {color: rgb(120, 100, 160);}
+        h2 {color: rgb(120, 100, 160);}
+        h3 {color: rgb(120, 100, 160);}
+        p  {color: rgb(120, 100, 160);}
+        body{background-color: rgb(250,230,270);}
+
+         h1 {text-indent: 500px;}
+        h2 {text-indent:360px}
+        
+    
+        </style>
+
+   
+
+    <h1> Happy Birthday!</h1>
+
+     <h2><img src="https://static.vecteezy.com/system/resources/previews/028/199/230/original/fluffy-dog-with-birthday-cap-isolated-png.png" width=500 length=500 </h2>
+
+
+<h3> Happy Birthday! I hope you have the most special, fun, and magnificent day! God bless you and congratulations to another year!</h3>
+<p><strong>I'm so grateful I get to be your friend. <3 </strong></p>
+<p>Enjoy your day.</p>
+<p> Love, your friend, Bella</p>
+
+
+</head>
+<body>
